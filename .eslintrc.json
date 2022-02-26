@@ -7,6 +7,16 @@
     "object-curly-spacing": [
       "error",
       "always"
+    ],
+    "valid-jsdoc": [
+      "error",
+      {
+        "requireParamType": false,
+        "requireReturnType": false
+      }
+    ],
+    "sort-imports": [
+      "error"
     ]
   }
 }
